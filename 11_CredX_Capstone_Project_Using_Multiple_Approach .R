@@ -1,4 +1,3 @@
-setwd("C:/Users/mishrsat/Desktop/Automation/BFSI_Domain_Elective/Project")
 
 # Loading the required library
 library(ggplot2)
